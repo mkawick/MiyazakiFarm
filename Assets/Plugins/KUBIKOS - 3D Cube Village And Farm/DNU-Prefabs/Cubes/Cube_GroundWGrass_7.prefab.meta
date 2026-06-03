@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ae09d9dd6effa2443bf54e95b908d708
+timeCreated: 1551690535
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137877
+  packageName: KUBIKOS - Cube Village & Farm Kit
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - 3D Cube Village And Farm/Prefabs/Cubes/Cube_GroundWGrass_7.prefab
+  uploadId: 851918

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b111798f9974f1e97063d7eab52dfc6
+timeCreated: 1505802577
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100696
+  packageName: "KUBIKOS \u2013 Cute Low Poly Cube Animals & Birds"
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - Cube Mini Animals/Animals1_AnimCTRL/BirdCont.overrideController
+  uploadId: 850912

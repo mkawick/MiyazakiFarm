@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e50295c7e0baac743b88f412d20811ab
+timeCreated: 1521799048
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137877
+  packageName: KUBIKOS - Cube Village & Farm Kit
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - 3D Cube Village And Farm/Prefabs/TreesAndPlants/PlantFat2.prefab
+  uploadId: 851918

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d7d414a1cc374d619d862d7c4b1bd8f9
+timeCreated: 1498996228
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100696
+  packageName: "KUBIKOS \u2013 Cute Low Poly Cube Animals & Birds"
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - Cube Mini Animals/Animals1_!Demo/Animals1_Scripts/MathFx.cs
+  uploadId: 850912

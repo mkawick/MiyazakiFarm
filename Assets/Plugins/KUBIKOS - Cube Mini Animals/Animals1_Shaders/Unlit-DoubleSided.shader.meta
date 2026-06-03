@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cd5b196ef3804853b23e546e6b2d4b29
+timeCreated: 1505762406
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100696
+  packageName: "KUBIKOS \u2013 Cute Low Poly Cube Animals & Birds"
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - Cube Mini Animals/Animals1_Shaders/Unlit-DoubleSided.shader
+  uploadId: 850912

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1cb0968696d7537478b1f1f8b1970a45
+timeCreated: 1528493561
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137877
+  packageName: KUBIKOS - Cube Village & Farm Kit
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - 3D Cube Village And Farm/Prefabs/CubesAtlas/Cube_Rock_2.prefab
+  uploadId: 851918

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2ca304a25e345af48ac55b05faea3cad
+timeCreated: 1521800673
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137877
+  packageName: KUBIKOS - Cube Village & Farm Kit
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - 3D Cube Village And Farm/Prefabs/Items/CoinsGroup2.prefab
+  uploadId: 851918

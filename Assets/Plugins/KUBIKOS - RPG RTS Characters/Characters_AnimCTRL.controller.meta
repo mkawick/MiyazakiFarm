@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 931a9d58bd7beef4d90f4de0641699f4
+timeCreated: 1532787726
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124481
+  packageName: KUBIKOS - RPG / RTS 20 Animated Cube Mini Units
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - RPG RTS Characters/Characters_AnimCTRL.controller
+  uploadId: 851406

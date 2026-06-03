@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e8221be92974d9748a7a21f9f47d8e04
+timeCreated: 1532786068
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124481
+  packageName: KUBIKOS - RPG / RTS 20 Animated Cube Mini Units
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - RPG RTS Characters/Materials/KUBKOS_RPG_SiegeMachines_Green_Mat.mat
+  uploadId: 851406

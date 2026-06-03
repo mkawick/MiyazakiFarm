@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e209e95844c22a740bd574988de28d34
+timeCreated: 1551817541
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137877
+  packageName: KUBIKOS - Cube Village & Farm Kit
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - 3D Cube Village And Farm/Prefabs/Buildings/Oven 1.prefab
+  uploadId: 851918

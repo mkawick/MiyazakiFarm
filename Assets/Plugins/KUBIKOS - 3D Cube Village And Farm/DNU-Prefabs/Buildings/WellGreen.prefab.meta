@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1b5bdc406f9ec984c93da6e35a1e848c
+timeCreated: 1551816538
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137877
+  packageName: KUBIKOS - Cube Village & Farm Kit
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - 3D Cube Village And Farm/Prefabs/Buildings/WellGreen.prefab
+  uploadId: 851918

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c41ead0a4a79d384bb92e89bab403c49
+timeCreated: 1550498160
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137877
+  packageName: KUBIKOS - Cube Village & Farm Kit
+  packageVersion: 1.9
+  assetPath: Assets/KUBIKOS - 3D Cube Village And Farm/Prefabs/Buildings/Farm_1.prefab
+  uploadId: 851918

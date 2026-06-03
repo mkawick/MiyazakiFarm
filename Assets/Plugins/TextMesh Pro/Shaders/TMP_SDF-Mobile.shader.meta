@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe393ace9b354375a9cb14cdbbc28be4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: TMP Essential Resources
+  packageVersion: 3.0.9
+  assetPath: Assets/Plugins/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  uploadId: 0
